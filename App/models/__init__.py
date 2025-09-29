@@ -1,5 +1,5 @@
 from .user import *
-from .isRostered import *
+from .shift import *
 from .admin import *
 from .staff import *
 from .roster import *
